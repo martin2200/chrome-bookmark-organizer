@@ -1,0 +1,46 @@
+[
+  {
+    "folder": "财经投资",
+    "keywords": ["eastmoney", "cffex", "jisilu", "qhweb", "fund.eastmoney", "zhangtingban", "55188", "goodgupiao", "tetegu", "hibor", "jiemian", "simuwang", "shivafund", "cninfo", "财联社", "东方财富", "金融", "期货", "基金", "私募", "巨潮", "新股", "中财网", "投资", "净值", "行情", "数据"]
+  },
+  {
+    "folder": "AI工具",
+    "keywords": ["chat.openai", "chatpdf", "aigcfun", "cleword", "chatGPT", "GPT", "AI绘图", "投喂", "openai", "claude", "gemini", "AI对话"]
+  },
+  {
+    "folder": "学习资源",
+    "keywords": ["enjing", "luogu", "leetcode", "zxx.edu", "amac", "洛谷", "力扣", "国家中小学", "基金从业", "学习", "教育", "教程", "课程"]
+  },
+  {
+    "folder": "软件与工具",
+    "keywords": ["extab", "suke.kim", "withpinbox", "photo.baidu", "pc.qq", "VMware", "xitongcity", "jb51", "w3school", "modb.pro", "腾讯软件", "可可五笔", "一刻相册", "ExTab", "Pinbox", "XPath", "Power BI", "动态排名", "下載加速", "加速"]
+  },
+  {
+    "folder": "股票技术",
+    "keywords": ["55188", "goodgupiao", "tetegu", "指标", "公式", "火车轨", "通达信", "幅图", "选股"]
+  },
+  {
+    "folder": "论坛社区",
+    "keywords": ["xiaoe-tech", "flowus", "xueqiu", "huxiu", "bilibili", "鳄鱼派", "知识星球", "天涯隐学", "zsxq", "雪球", "虎嗅", "量化小论坛", "quantclass"]
+  },
+  {
+    "folder": "思维与修行",
+    "keywords": ["madewill", "360doc", "bilibili", "doc88", "bdxsh", "芒格", "思维模型", "逆向思维", "飞轮效应", "内丹", "胎息", "气功", "ESG", "查理芒格"]
+  },
+  {
+    "folder": "实用工具",
+    "keywords": ["bing.com", "google.com/translate", "ipinfo", "drugfuture", "meiguodizhi", "lizibuluo", "必应", "翻译", "地址生成", "IP", "药品", "数学题", "accorplus"]
+  },
+  {
+    "folder": "AList",
+    "keywords": ["alist.nn.ci", "AList"]
+  },
+  {
+    "folder": "期权",
+    "keywords": ["期权", "option", "50ETF", "沪深300股指期权", "ice", "cffex", "oanda", "options", "看涨", "看跌", "行权"]
+  },
+  {
+    "folder": "其他",
+    "keywords": []
+  }
+]
